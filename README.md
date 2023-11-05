@@ -17,9 +17,6 @@ O principal objetivo deste projeto foi adquirir experiência na criação de uma
 
 ***Funcionalidades e Destaques***
 
-Design Responsivo: 
-A página é projetada para funcionar bem em dispositivos desktop, tablets e smartphones.
-
 Banner de Destaque: 
 Um banner de destaque na parte superior da página para chamar a atenção dos visitantes.
 
